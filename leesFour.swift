@@ -88,7 +88,6 @@ final class SportСar: Car {
          salePrice: Double,
          carYear: Int,
          licensePlate: String)
-
     {
         self.power = power
         self.mileage = mileage
